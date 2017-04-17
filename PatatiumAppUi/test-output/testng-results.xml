@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="350" started-at="2017-04-14T06:26:36Z" finished-at="2017-04-14T06:26:36Z">
+    <groups>
+    </groups>
+    <test name="登录测试" duration-ms="41" started-at="2017-04-14T06:26:36Z" finished-at="2017-04-14T06:26:36Z">
+      <class name="LoginTest">
+        <test-method status="FAIL" signature="setup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginTest@2641e737]" name="setup" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'deviceId' is required by @Configuration on method setup but has not been marked @Optional or defined
+in /Users/phoenixzhang/Downloads/PatatiumAppUi/testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'deviceId' is required by @Configuration on method setup but has not been marked @Optional or defined
+in /Users/phoenixzhang/Downloads/PatatiumAppUi/testng.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:154)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:361)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:84)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:197)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:647)
+	at org.testng.TestRunner.run(TestRunner.java:615)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="beforeclass()[pri:0, instance:LoginTest@2641e737]" name="beforeclass" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="FAIL" signature="login()[pri:0, instance:LoginTest@2641e737]" name="login" duration-ms="14" started-at="2017-04-14T14:26:36Z" description="登录测试" finished-at="2017-04-14T14:26:36Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.webdriver.patatiumappui.utils.ScreenShot.takeScreenshot(ScreenShot.java:23)
+	at org.webdriver.patatiumappui.utils.ScreenShot.takeScreenshot(ScreenShot.java:39)
+	at org.webdriver.patatiumappui.utils.TestListener.onTestSkipped(TestListener.java:148)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1691)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1683)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:697)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:LoginTest@2641e737]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- LoginTest -->
+    </test> <!-- 登录测试 -->
+    <test name="登录失败测试：数据驱动" duration-ms="115" started-at="2017-04-14T06:26:36Z" finished-at="2017-04-14T06:26:36Z">
+      <class name="LoginTest">
+        <test-method status="FAIL" signature="setup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginTest@71623278]" name="setup" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'deviceId' is required by @Configuration on method setup but has not been marked @Optional or defined
+in /Users/phoenixzhang/Downloads/PatatiumAppUi/testng.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'deviceId' is required by @Configuration on method setup but has not been marked @Optional or defined
+in /Users/phoenixzhang/Downloads/PatatiumAppUi/testng.xml
+	at org.testng.internal.Parameters.createParameters(Parameters.java:154)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:361)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:84)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:197)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:138)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:647)
+	at org.testng.TestRunner.run(TestRunner.java:615)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="SKIP" signature="beforeclass()[pri:0, instance:LoginTest@71623278]" name="beforeclass" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="FAIL" signature="loginFail(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginTest@71623278]" name="loginFail" duration-ms="106" started-at="2017-04-14T14:26:36Z" description="登录失败用例:数据驱动例子" data-provider="longinData" finished-at="2017-04-14T14:26:36Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at org.webdriver.patatiumappui.utils.ScreenShot.takeScreenshot(ScreenShot.java:23)
+	at org.webdriver.patatiumappui.utils.ScreenShot.takeScreenshot(ScreenShot.java:39)
+	at org.webdriver.patatiumappui.utils.TestListener.onTestSkipped(TestListener.java:148)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1691)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1683)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:697)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:773)
+	at org.testng.TestRunner.run(TestRunner.java:623)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
+	at org.testng.TestNG.run(TestNG.java:1018)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFail -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:LoginTest@71623278]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="openResult()[pri:0, instance:LoginTest@71623278]" name="openResult" is-config="true" duration-ms="0" started-at="2017-04-14T14:26:36Z" finished-at="2017-04-14T14:26:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openResult -->
+      </class> <!-- LoginTest -->
+    </test> <!-- 登录失败测试：数据驱动 -->
+  </suite> <!-- Suite -->
+</testng-results>

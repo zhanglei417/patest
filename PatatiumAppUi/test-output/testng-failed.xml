@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="mailTitle" value="Webdriver中文社区-自动化测试报告"/>
+  <parameter name="UserName" value=""/>
+  <parameter name="appName" value="app-release.apk"/>
+  <parameter name="smtpPort" value=""/>
+  <parameter name="reportTitle" value="Webdriver中文社区-自动化测试报告"/>
+  <parameter name="nodeURL" value="127.0.0.1:4723"/>
+  <parameter name="smtpPassWord" value=""/>
+  <parameter name="reportUrl" value=""/>
+  <parameter name="deviceName" value="127.0.0.1:62001"/>
+  <parameter name="appMainPackage" value="com.example.phoenixzhang.activity03"/>
+  <parameter name="PassWord" value=""/>
+  <parameter name="appActivity" value="com.example.phoenixzhang.activity03.MainActivity"/>
+  <parameter name="smtpHost" value=""/>
+  <parameter name="smtpUserName" value=""/>
+  <parameter name="recipients" value=""/>
+  <parameter name="driverName" value="AndroidDriver"/>
+  <parameter name="sdkVersion" value="6.0"/>
+  <parameter name="platformName" value="Android"/>
+  <parameter name="logUrl" value=""/>
+  <listeners>
+    <listener class-name="org.webdriver.patatiumappui.utils.TestListener"/>
+    <listener class-name="org.webdriver.patatiumappui.utils.TestReport"/>
+  </listeners>
+  <test name="登录测试(failed)">
+    <classes>
+      <class name="LoginTest">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- LoginTest -->
+    </classes>
+  </test> <!-- 登录测试(failed) -->
+  <test name="登录失败测试：数据驱动(failed)">
+    <classes>
+      <class name="LoginTest">
+        <methods>
+          <include name="loginFail"/>
+        </methods>
+      </class> <!-- LoginTest -->
+    </classes>
+  </test> <!-- 登录失败测试：数据驱动(failed) -->
+</suite> <!-- Failed suite [Suite] -->

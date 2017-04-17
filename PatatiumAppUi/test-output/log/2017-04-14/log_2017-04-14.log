@@ -1,0 +1,128 @@
+[2017-04-14 14:04:23,998] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:04:24,000] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:04:24,009] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:08:11,710] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:08:11,713] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:08:11,722] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:11:15,165] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:11:15,168] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:11:15,177] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:11:15,177] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:11:15,177] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:11:15,180] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:11:15,181] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:11:15,181] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:11:15,464] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:11:15,465] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:11:15,467] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:11:15,468] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:11:15,468] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:11:15,470] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:11:15,471] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:11:15,471] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:11:21,505] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2017-04-14 14:15:36,690] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:15:36,693] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:15:36,701] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:15:36,702] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:15:36,702] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:15:36,705] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:15:36,705] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:15:36,706] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:15:37,021] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:15:37,022] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:15:37,025] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:15:37,025] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:15:37,025] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:15:37,027] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:15:37,028] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:15:37,028] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:15:39,100] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2017-04-14 14:18:09,176] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:18:09,179] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:18:09,188] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:19:40,735] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:19:40,738] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:19:40,746] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:19:40,747] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:19:40,747] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:19:40,750] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:19:40,750] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:19:40,750] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:19:40,899] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:19:40,900] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:19:40,903] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:19:40,903] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:19:40,903] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:19:40,906] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:19:40,906] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:19:40,907] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:19:42,902] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2017-04-14 14:20:29,687] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:20:29,689] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:20:29,698] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:20:29,699] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:20:29,699] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:20:29,702] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:20:29,702] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:20:29,702] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:20:30,114] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:20:30,115] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:20:30,118] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:20:30,118] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:20:30,118] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:20:30,121] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:20:30,122] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:20:30,122] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:20:34,969] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2017-04-14 14:21:48,492] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:21:48,495] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:21:48,503] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:21:48,504] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:21:48,504] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:21:48,507] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:21:48,507] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:21:48,507] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:21:48,626] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:21:48,627] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:21:48,629] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:21:48,630] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:21:48,630] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:21:48,632] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:21:48,633] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:21:48,633] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:21:52,735] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2017-04-14 14:24:29,219] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:24:29,221] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:24:29,230] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:24:29,231] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:24:29,231] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:24:29,234] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:24:29,235] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:24:29,236] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:24:29,511] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:24:29,512] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:24:29,515] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:24:29,516] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:24:29,517] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:24:29,520] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:24:29,521] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:24:29,521] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:24:32,639] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
+[2017-04-14 14:26:36,182] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:26:36,184] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---start
+[2017-04-14 14:26:36,192] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:26:36,192] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:26:36,193] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:26:36,195] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:26:36,196] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录测试--failed
+[2017-04-14 14:26:36,196] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录测试---end
+[2017-04-14 14:26:36,500] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:26:36,501] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---start
+[2017-04-14 14:26:36,503] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:26:36,504] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:26:36,504] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:26:36,507] ERROR org.webdriver.patatiumappui.utils.TestListener 0
+[2017-04-14 14:26:36,507] ERROR org.webdriver.patatiumappui.utils.TestListener 测试用例: 登录失败用例:数据驱动例子--failed
+[2017-04-14 14:26:36,507] INFO  org.webdriver.patatiumappui.utils.TestListener 测试用例:登录失败用例:数据驱动例子---end
+[2017-04-14 14:26:42,792] ERROR org.webdriver.patatiumappui.utils.SendMail 发送邮件失败！
